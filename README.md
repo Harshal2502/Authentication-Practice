@@ -1,2 +1,2 @@
 # Authentication-Practice
-Practice on how to authenticate users
+Practice on different levels of security during authenticating the users
