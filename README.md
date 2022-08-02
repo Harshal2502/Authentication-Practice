@@ -1,2 +1,2 @@
 # Authentication-Practice
-Practice on different levels of security during authenticating the users
+In this project, I tried to implement different levels of user authentication security.
