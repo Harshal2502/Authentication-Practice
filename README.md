@@ -1,2 +1,2 @@
 # Authentication-Practice
-In this project, I tried to implement different levels of user authentication security.
+In this project, I tried implementing different modes and levels of user authentication security, how to make user credentials safe from possible attackers
